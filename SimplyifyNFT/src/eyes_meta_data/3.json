@@ -1,0 +1,12 @@
+{
+    "name": "Electric Tiger",
+    "description": "A neon-colored tiger prowling through a vibrant jungle.",
+    "image": "ipfs://QmYj793wWqRDWxijFnxAXQfgx6F1Zmw4Lr68wJ5SBvHFe8/3.jpg",
+    "attributes": {
+      "Animal": "Tiger",
+      "Theme": "Neon Jungle",
+      "Color": "Orange & Electric Blue",
+      "Rarity": "Epic",
+      "Year Created": "2024"
+    }
+  }
